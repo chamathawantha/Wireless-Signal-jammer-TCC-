@@ -1,5 +1,7 @@
 # Wireless-Signal-jammer-TCC-
 # How to Upload Firmware / Usage
+<img width="4032" height="3024" alt="device1" src="https://github.com/user-attachments/assets/ac658274-0ab2-4f81-ad2f-660fc9feb5a5" />
+
 
 1) Go to RTL8720DN_SSD1306_FIX folder. You need to first backup any files that will be replaced, and then add this into your Arduino/libraries folder.
     - This fixes bugs that make Adafruit SSD1306 library incompatible with BW16 board.
